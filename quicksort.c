@@ -3,11 +3,6 @@
 //
 
 #include "quicksort.h"
-#include <stdio.h>
-
-int Sum(int a, int b) {
-    return a + b;
-}
 
 void QuickSort(int arr[], int length) {
     RecursiveQuickSort(arr, 0, length-1); // [left, right]

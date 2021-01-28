@@ -7,7 +7,6 @@
 
 #include <stdbool.h>
 
-int Sum(int a, int b);
 void QuickSort(int arr[], int length);
 void RecursiveQuickSort(int arr[], int left, int right);
 long InsertionSort(int arr[], int left, int right);
