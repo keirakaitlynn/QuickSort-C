@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/keira/CLionProjects/QuickSortC/arrays.h
+stdbool.h
+-
+
+C:/Users/keira/CLionProjects/QuickSortC/main.c
+stdio.h
+-
+quicksort.h
+C:/Users/keira/CLionProjects/QuickSortC/quicksort.h
+arrays.h
+C:/Users/keira/CLionProjects/QuickSortC/arrays.h
+string.h
+-
+
+C:/Users/keira/CLionProjects/QuickSortC/quicksort.h
+stdbool.h
+-
+

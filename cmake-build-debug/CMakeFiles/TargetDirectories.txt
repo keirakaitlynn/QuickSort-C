@@ -1,0 +1,3 @@
+C:/Users/keira/CLionProjects/QuickSortC/cmake-build-debug/CMakeFiles/QuickSortC.dir
+C:/Users/keira/CLionProjects/QuickSortC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/keira/CLionProjects/QuickSortC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
